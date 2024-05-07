@@ -1,0 +1,39 @@
+PROCEDIMIENTOS:
+==============================================
+
+- **Instalar Node js ( https://nodejs.org/dist/v16.18.0/node-v16.18.0-x64.msi )**
+- **Abrir el CMD como administrador y escribir el siguiente comando:**
+
+INSTALAR ANGULAR
+=============================================
+
+escribir el comando: 
+
+ **npm install -g @angular/cli** (Esperar la instalación)
+
+INSTALAR IONIC
+=============================================
+
+escribir el siguiente comando:
+
+ **npm install -g @ionic/cli**
+
+
+CREAR PROYECTO
+=============================================
+
+- **1. Crear una carpeta en el escritorio con el nombre de "ionic"**
+
+- **2. Ingresar a la carpeta creada "ionic" desde el CMD (ejecutado como administrador) y agregar la siguiente linea**
+
+ **cd [RUTA DE LA CARPETA]**
+
+- 3.Luego de haber ingresado a la carpeta desde el CMD escribir el siguiente comando:
+
+**ionic start elnombredelproyecto** (Esperar que abra la web y crear al app)
+
+En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
+
+ **ionic serve**
+
+Listo!, debería mostrar la interfaz gráfica del aplicativo y sus complementos agregados en la carpeta del proyecto creado.
