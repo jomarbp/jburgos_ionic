@@ -1,20 +1,20 @@
 PROCEDIMIENTOS:
 ==============================================
 
-- **Instalar Node js ( https://nodejs.org/dist/v16.18.0/node-v16.18.0-x64.msi )**
-- **Abrir el CMD como administrador y escribir el siguiente comando:**
+- Instalar Node js ( https://nodejs.org/dist/v22.1.0/node-v22.1.0-x64.msi )
+- Abrir el CMD como administrador y escribir el siguiente comando:
 
 INSTALAR ANGULAR
 =============================================
 
-escribir el comando: 
+Escribir el comando: 
 
  **npm install -g @angular/cli** (Esperar la instalación)
 
 INSTALAR IONIC
 =============================================
 
-escribir el siguiente comando:
+Escribir el siguiente comando:
 
  **npm install -g @ionic/cli**
 
@@ -22,17 +22,22 @@ escribir el siguiente comando:
 CREAR PROYECTO
 =============================================
 
-- **1. Crear una carpeta en el escritorio con el nombre de "ionic"**
+- **1. Crear una carpeta en el Escritorio con el nombre de "ionic"**
 
 - **2. Ingresar a la carpeta creada "ionic" desde el CMD (ejecutado como administrador) y agregar la siguiente linea**
 
- **cd [RUTA DE LA CARPETA]**
+ **cd [RUTA DE LA CARPETA IONIC]**
 
 - 3.Luego de haber ingresado a la carpeta desde el CMD escribir el siguiente comando:
 
-**ionic start elnombredelproyecto** (Esperar que abra la web y crear al app)
+ **ionic start elnombredelproyecto** (Esperar que abra la web y crear al app)
 
-En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
+Aparecerá un apartado dónde deberemos seleccionar con las teclas direccionales del teclado la linea de **"sidermenu"**
+a continuación seleccionar **Angular**
+
+(En el caso les muestre la opción de **create account** poner la letra N y seguido presionar Enter.
+
+4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
 
  **ionic serve**
 
