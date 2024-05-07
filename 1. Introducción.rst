@@ -18,3 +18,11 @@ INTRODUCCIÓN
 .. image:: img/8.png
 
 .. image:: img/9.png
+
+.. image:: img/10.png
+
+.. image:: img/11.png
+
+.. image:: img/12.png
+
+.. image:: img/13.png
