@@ -1,0 +1,17 @@
+PROCEDIMIENTOS:
+==============================================
+
+- **Descargar la base de datos e importarla a su SGBD ( https://drive.google.com/file/d/10CCp2E5Fz0SBKAUFEjWQOdgx0ZcN3RZj/view?usp=sharing)**
+
+CREAR PROYECTO PHP
+=============================================
+
+En la ruta **"C:/Xampp/htdocs/":**
+
+Crear una carpeta de nombre **api**
+
+dentro de la carpeta creada **api**, crear los siguientes scripts:
+
+**1. conexion.php**
+**2. eliminar.php**
+**3. vista_datos.php**
