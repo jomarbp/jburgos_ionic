@@ -1,0 +1,9 @@
+API - INTRODUCCIÓN:
+==============================================
+
+- **Puedes descargar la diapositiva en PDF , desde: ( https://drive.google.com/file/d/1ee3gLOxM7RfjTX1r3uBh0pf66m1J0fJV/view?usp=sharing)**
+
+O ver la IMAGEN
+=============================================
+
+.. image:: img/api.jpg
