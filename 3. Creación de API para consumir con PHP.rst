@@ -27,4 +27,7 @@ EJECUTAR EN EL NAVEGADOR:
 
 1.Abrir el navegador y copiar la siguiente ruta **localhost/api/vista_datos.php** y si está usando el puerto 8080 sería **http://localhost:8080/api/vista_datos.php** 
 
+.. image:: img/datos_obtenidos.png
+
+
 luego verá en el navegador los datos, los cuáles 
