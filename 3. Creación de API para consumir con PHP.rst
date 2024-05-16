@@ -14,6 +14,10 @@ dentro de la carpeta creada **api**, crear los siguientes scripts:
 
 **1. conexion.php**
 
+.. image:: img/conexion.png
+
 **2. eliminar.php**
 
 **3. vista_datos.php**
+
+.. image:: img/vista_datos.png
