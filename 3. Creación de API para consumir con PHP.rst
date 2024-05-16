@@ -1,7 +1,7 @@
 PROCEDIMIENTOS:
 ==============================================
 
-- **Descargar la base de datos e importarla a su SGBD ( https://drive.google.com/file/d/10CCp2E5Fz0SBKAUFEjWQOdgx0ZcN3RZj/view?usp=sharing)**
+- **Descargar la base de datos e importarla a su SGBD ( https://drive.google.com/file/d/1T39IFfaz8qBK-6PVIjBjrwxW5pKqGPWL/view?usp=sharing )**
 
 CREAR PROYECTO PHP
 =============================================
