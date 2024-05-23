@@ -47,6 +47,27 @@ b. Arrastrar y soltar la carpeta del proyecto hacia el Sublime Text
 
 ✔️​ CREAR PÁGINAS EN IONIC Y ACTIVAR SERVICIOS API PARA CONSUMIR:
 ===================================================================
+
+Para ello debemos estar dentro de la carpeta del proyecto
+
+- **1. Crear una carpeta en el Escritorio con el nombre que ud desee "jburgostres"**
+
+.. image:: img/Crear_carpeta.png
+
+- **2. Copiar la ruta del proyecto "jburgostres" creado**
+
+.. image:: img/copiar_ruta.png
+
+- **3. Ejecutar el CMD como administrador**
+
+.. image:: img/cmd_administrador.png
+
+- ** 4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:**
+
+ **ionic serve**
+
+AHORA: **creamos nuestra página con el siguiente comando**
+
 1. ionic g page [elnombredelapaginanueva] (para crear página nueva)
 
 COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP
