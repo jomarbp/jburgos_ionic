@@ -31,21 +31,3 @@ luego verá en el navegador los datos, los cuáles son:
 
 .. image:: img/datos_obtenidos.png
 
-
-COMANDOS A UTILIZAR:
-==============================================
-1. ionic g page [elnombredelapaginanueva] (para crear página nueva)
-
-COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP
-
-1. ionic g service api
-2. npm install ionic-native
-3. npm install @ionic-native/network
-
-
-SOLUCIONAR ERRORES DE NPM TEMPORALES:
-==============================================
-1. npm install --save --legacy-peer-deps
-2. npm config set legacy-peer-deps true
-3. npm cache clean --force
-
