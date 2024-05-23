@@ -67,7 +67,7 @@ CREAR PROYECTO
 
 **NOS ASEGURAMOS CON ESTO QUE SE HA CREADO TODO OK**
 
-.. image:: img/fin.png 
+.. image:: img/final.png 
 
 
 7. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
