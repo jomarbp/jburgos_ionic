@@ -22,11 +22,23 @@ Escribir el siguiente comando:
 CREAR PROYECTO
 =============================================
 
-- **1. Crear una carpeta en el Escritorio con el nombre de "ionic"**
+- **1. Crear una carpeta en el Escritorio con el nombre que ud desee "jburgostres"**
 
-- **2. Ingresar a la carpeta creada "ionic" desde el CMD (ejecutado como administrador) y agregar la siguiente linea**
+.. image:: img/Crear_carpeta.png
 
- **cd [RUTA DE LA CARPETA IONIC]**
+- **2. Copiar la ruta del proyecto "jburgostres" creado**
+
+.. image:: img/copiar_ruta.png
+
+- **3. Ejecutar el CMD como administrador**
+
+.. image:: img/cmd_administrador.png
+
+- **4. agregar la siguiente linea**
+
+ **cd larutadelproyecto**
+
+.. image:: img/ingresar_cmd_proyecto.png
 
 - 3.Luego de haber ingresado a la carpeta desde el CMD escribir el siguiente comando:
 
