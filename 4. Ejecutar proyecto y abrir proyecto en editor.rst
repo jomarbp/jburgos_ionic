@@ -3,7 +3,7 @@ PARA EJECUTAR PROYECTO PREVIAMENTE CREADO
 
 **En este case se estará explicando con otro proyecto de nombre "demoapp"... UD LO HARÁN CON SU PROYECTO CREADO**
 
-1. Abrir el CMD como administrador
+1. Abrir el **CMD** O **SIMBOLO DE SISTEMA** como administrador
 
 .. image:: img/cmd_administrador.png
 
