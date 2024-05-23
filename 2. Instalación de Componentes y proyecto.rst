@@ -59,9 +59,18 @@ CREAR PROYECTO
 
 .. image:: img/llave_permitida.png
 
+**ESPERAMOS QUE SE DESCARGUE TODO EL PAQUETE DE IONIC , HASTA QUE OTRA VEZ TENGAMOS EN LA CMD LIBRE PARA ESCRIBIR OTRA LINEA**
+
 (En el caso les muestre la opción de **create account** poner la letra N y seguido presionar Enter.
 
-4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
+.. image:: img/nocrearcuenta.png
+
+**NOS ASEGURAMOS CON ESTO QUE SE HA CREADO TODO OK**
+
+.. image:: img/fin.png 
+
+
+7. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
 
 
  **ionic serve**
