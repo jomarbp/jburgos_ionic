@@ -44,7 +44,8 @@ b. Arrastrar y soltar la carpeta del proyecto hacia el Sublime Text
 
 .. image:: img/vista_app.png
 
-CREAR PÁGINAS EN IONIC Y ACTIVAR SERVICIOS API PARA CONSUMIR:
+
+✔️​ CREAR PÁGINAS EN IONIC Y ACTIVAR SERVICIOS API PARA CONSUMIR:
 ===================================================================
 1. ionic g page [elnombredelapaginanueva] (para crear página nueva)
 
