@@ -15,7 +15,7 @@
 
 .. image:: img/cmd_administrador.png
 
-- ** 4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:**
+- **4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:**
 
  **ionic serve**
 
