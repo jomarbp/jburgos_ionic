@@ -77,3 +77,6 @@ CREAR PROYECTO
 
 Listo!, debería mostrar la interfaz gráfica del aplicativo y sus complementos agregados en la carpeta del proyecto creado.
 
+.. image:: img/vista_app.png
+
+
