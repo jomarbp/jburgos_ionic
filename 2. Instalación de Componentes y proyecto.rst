@@ -39,6 +39,28 @@ a continuación seleccionar **Angular**
 
 4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
 
+
  **ionic serve**
 
 Listo!, debería mostrar la interfaz gráfica del aplicativo y sus complementos agregados en la carpeta del proyecto creado.
+
+PARA EJECUTAR PROYECTO PREVIAMENTE CREADO
+=============================================
+
+1. Abrir la carpeta del proyecto con su editor de texto preferido:
+
+PARA VISUAL STUDIO CODE(Pasos a seguir):
+a. Abrir el VS Code
+b. Clic en "File > Open Folder"
+c. Buscamos y seleccionados la carpeta de proyecto
+
+PARA SUBLIME TEXT 3
+a. Abrir el Sublime Text
+b. Arrastrar y soltar la carpeta del proyecto hacia el Sublime Text
+
+2. Abrir el CMD como administrador
+3. Ingresamos a la carpeta del proyecto creado y copiar la ruta del proyecto
+4. En el CMD , agregar la lina de comando **cd** seguido del la ruta del proyecto (Enter), asegurandonos de estar en la carpeta del proyecto.
+5. Ejecutar el comando:
+  **ionic serve**
+
