@@ -5,6 +5,9 @@ PARA EJECUTAR PROYECTO PREVIAMENTE CREADO
 
 1. Abrir el CMD como administrador
 
+.. image:: img/cmd_administrador.png
+
+
 2. Ingresamos a la carpeta del proyecto creado y copiar la ruta del proyecto
 
 .. image:: img/ruta_proyecto.png
