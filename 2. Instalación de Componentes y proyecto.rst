@@ -44,8 +44,20 @@ CREAR PROYECTO
 
  **ionic start elnombredelproyecto** (Esperar que abra la web y crear al app)
 
-Aparecerá un apartado dónde deberemos seleccionar con las teclas direccionales del teclado la linea de **"sidermenu"**
-a continuación seleccionar **Angular**
+.. image:: img/crear_app.png
+
+
+4. Aparecerá un apartado dónde deberemos seleccionar el **framework Javascript** con las teclas direccionales del teclado la linea de **"Angular"**
+
+.. image:: img/sel-angular.png
+
+5. Seleccionamos el **template(plantilla)** de **slidemenu** con las teclas direccionales.
+
+.. image:: img/sel-template.png
+
+6. Seleccionamos el **Llaves permitidas (Arrow Key) NgModules** con las teclas direccionales.
+
+.. image:: img/llave_permitida.png
 
 (En el caso les muestre la opción de **create account** poner la letra N y seguido presionar Enter.
 
