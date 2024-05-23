@@ -48,7 +48,7 @@ b. Arrastrar y soltar la carpeta del proyecto hacia el Sublime Text
 ✔️​ CREAR PÁGINAS EN IONIC Y ACTIVAR SERVICIOS API PARA CONSUMIR:
 ===================================================================
 
-Para ello debemos estar dentro de la carpeta del proyecto
+**PREVIO DE ELLO DEBEMOS ESTAR DENTRO DE LA CARPETA DEL PROYECTO EN OTRO CMD**
 
 - **1. Crear una carpeta en el Escritorio con el nombre que ud desee "jburgostres"**
 
