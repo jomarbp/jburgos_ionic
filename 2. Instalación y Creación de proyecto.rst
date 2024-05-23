@@ -22,6 +22,10 @@ Escribir el siguiente comando:
 CREAR PROYECTO
 =============================================
 
+**RECOOOORDAR***
+
+**DESDE AHORA EL NOMBRE DEL PROYECTO QUE SE CREE DEBERÁ TENER EL NOMBRE QUE UD LE ASIGNE, Y CON ESE NOMBRE DEL PROYECTO UDS TRABAJARÁN**
+
 - **1. Crear una carpeta en el Escritorio con el nombre que ud desee "jburgostres"**
 
 .. image:: img/Crear_carpeta.png
