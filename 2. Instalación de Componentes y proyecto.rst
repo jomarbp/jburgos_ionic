@@ -74,3 +74,4 @@ b. Arrastrar y soltar la carpeta del proyecto hacia el Sublime Text
 
  **ionic serve**
 
+6. Esperar que abra el navegador con la interface del aplicativo , **plantilla slidemenu**
