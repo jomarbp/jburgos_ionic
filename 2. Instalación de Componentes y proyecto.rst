@@ -80,6 +80,8 @@ Listo!, debería mostrar la interfaz gráfica del aplicativo y sus complementos 
 PARA EJECUTAR PROYECTO PREVIAMENTE CREADO
 =============================================
 
+**En este case se estará explicando con otro proyecto de nombre "demoapp"**
+
 1. Abrir la carpeta del proyecto con su editor de texto preferido:
 
 PARA VISUAL STUDIO CODE(Pasos a seguir):
