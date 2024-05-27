@@ -19,7 +19,7 @@ Escribir el siguiente comando:
  **npm install -g @ionic/cli**
 
 
-CREAR PROYECTO
+💡​✔️​​ CREAR PROYECTO
 =============================================
 
 **RECOOOORDAR!**
