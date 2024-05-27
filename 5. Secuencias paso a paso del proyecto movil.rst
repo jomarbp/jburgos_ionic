@@ -30,9 +30,13 @@ AHORA: **Vamos a crear nuestra primera página que me permitirá AGREGAR ALUMNOS
 
 **SI nos aparece un mensaje indicanos acaeptar algo, ponemos la letra N** (seguido de Enter)
 
-Deberá generar el CREATE para asegurarnos que se ha creado la página
+Deberá generar el un mensaje CREATE o **"[OK] Generated page!"** para asegurarnos que se ha creado la página
 
 .. image:: img/pag_creada.png
+
+además verificamos si en nuestro proyecto se creó la página
+
+.. image:: img/pag_creada_verfi_proyecto.png
 
 
 COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP POR MEDIOS DE PETICIONES
