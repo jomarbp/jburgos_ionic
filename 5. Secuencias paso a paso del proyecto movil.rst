@@ -68,6 +68,9 @@ SECUENCIAS DE PROGRAMACIONES EN DIVERSOS ARCHIVOS DEL PROYECTO
 
 .. image:: img/proyecto_appmodule1.png
 
+.. image:: img/proyecto_appmodule2.png
+
+
 En el caso les genere el siguiente error:
 
 .. image:: img/error_ionicnative.png
