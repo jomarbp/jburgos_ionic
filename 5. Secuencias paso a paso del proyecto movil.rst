@@ -61,6 +61,28 @@ COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP POR 
 .. image:: img/native_network.png
 
 
+SECUENCIAS DE PROGRAMACIONES EN DIVERSOS ARCHIVOS DEL PROYECTO
+=================================================================
+
+1. En el script app.module.ts , agregamos la siguientes líneas que están señaladas
+
+.. image:: img/proyecto_appmodule1.png
+
+En el caso les genere el siguiente error:
+
+.. image:: img/error_ionicnative.png
+
+lo podrá solucionar con la siguiente línea
+
+ npm install @ionic-native/core
+
+.. image:: img/error_ionicnative.png
+
+Cerrar y volver a ejecutar el servidor del proyecto ionic.
+
+
+
+
 SOLUCIONAR ERRORES DE NPM TEMPORALES:
 ==============================================
 1. npm install --save --legacy-peer-deps
