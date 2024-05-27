@@ -44,7 +44,7 @@ COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP POR 
 
 2. **npm install ionic-native**
 
-.. image:: img/ionic_native.png**
+.. image:: img/ionic_native.png
 
 3. **npm install @ionic-native/network**
 
