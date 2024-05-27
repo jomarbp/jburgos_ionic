@@ -3,17 +3,18 @@
 
 **PREVIO DE ELLO DEBEMOS ESTAR DENTRO DE LA CARPETA DEL PROYECTO EN OTRO CMD**
 
-- **1. Crear una carpeta en el Escritorio con el nombre que ud desee "jburgostres"**
+- **1. Copiar la ruta del proyecto "crud" creado**
 
-.. image:: img/Crear_carpeta.png
+.. image:: img/ruta_crud_proyecto.png
 
-- **2. Copiar la ruta del proyecto "jburgostres" creado**
-
-.. image:: img/copiar_ruta.png
-
-- **3. Ejecutar el CMD como administrador**
+- **2. Ejecutar el CMD como administrador**
 
 .. image:: img/cmd_administrador.png
+
+- **3. Ingresamos a la carpeta del proyecto desde el comando cd **
+  cd crud
+
+.. image:: img/ingresamos_cd_crud.png
 
 - **4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:**
 
