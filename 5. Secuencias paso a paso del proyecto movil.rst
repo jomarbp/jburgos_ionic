@@ -38,15 +38,15 @@ Deberá generar el CREATE para asegurarnos que se ha creado la página
 COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP POR MEDIOS DE PETICIONES
 ====================================================================================================
 
-  ionic g service api
+** - ionic g service api**
 
 .. image:: img/ionic-server.png
 
-  npm install ionic-native
+** - npm install ionic-native**
 
-.. image:: img/ionic_native.png
+.. image:: img/ionic_native.png**
 
-  npm install @ionic-native/network
+** - npm install @ionic-native/network
 
 .. image:: img/native_network.png
 
