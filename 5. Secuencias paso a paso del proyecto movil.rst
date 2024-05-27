@@ -20,9 +20,14 @@
 
  **ionic serve**
 
-AHORA: **creamos nuestra página con el siguiente comando**
+AHORA: **Vamos a crear nuestra primera página que me permitirá AGREGAR ALUMNOS:**
 
-1. ionic g page [elnombredelapaginanueva] (para crear página nueva)
+1. SIN CERRAR LA VENTANA DEL CMD en dónde tiene ejecutado su servidor de IONIC, deberá **abrir otra ventana CMD** como administrador y ejecutar la siguiente línea:
+
+2. ionic g page agreg-alumno (ud podría asignar el nombre que desee)
+
+.. image:: img/ingresamos_crud_page.png
+
 
 COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP
 
