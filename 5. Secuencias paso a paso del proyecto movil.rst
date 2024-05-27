@@ -30,6 +30,8 @@ AHORA: **Vamos a crear nuestra primera página que me permitirá AGREGAR ALUMNOS
 
 **SI nos aparece un mensaje indicanos acaeptar algo, ponemos la letra N** (seguido de Enter)
 
+Deberá generar el CREATE para asegurarnos que se ha creado la página
+
 .. image:: img/pag_creada.png
 
 
