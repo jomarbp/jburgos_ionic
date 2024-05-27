@@ -83,6 +83,18 @@ lo podrá solucionar con la siguiente línea
 
 Cerrar y volver a ejecutar el servidor del proyecto ionic.
 
+2. LISTAR ALUMNOS (luego se ordenerá):
+==============================================
+
+.. image:: img/apiservice.png
+
+.. image:: img/sol_error_ionicnative.png
+
+.. image:: img/listar-alumnos2.png
+
+.. image:: img/approutingmodule.png
+
+.. image:: img/appcomponentes.png
 
 
 
