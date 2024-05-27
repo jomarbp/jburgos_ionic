@@ -90,6 +90,8 @@ Cerrar y volver a ejecutar el servidor del proyecto ionic.
 
 .. image:: img/sol_error_ionicnative.png
 
+.. image:: img/listar-alumnos1.png
+
 .. image:: img/listar-alumnos2.png
 
 .. image:: img/approutingmodule.png
