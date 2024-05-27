@@ -28,6 +28,10 @@ AHORA: **Vamos a crear nuestra primera página que me permitirá AGREGAR ALUMNOS
 
 .. image:: img/ingresamos_crud_page.png
 
+**SI nos aparece un mensaje indicanos acaeptar algo, ponemos la letra N** (seguido de Enter)
+
+.. image:: img/pag_creada.png
+
 
 COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP
 
