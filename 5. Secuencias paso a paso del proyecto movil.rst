@@ -119,7 +119,7 @@ Ruta: Src > app > **app-routing.module.ts**
 
 6. Ir al archivo **app.component.ts**
 
-Ruta: Src > app > *app.component.ts**
+Ruta: Src > app > **app.component.ts**
 
 .. image:: img/appcomponentes.png
 
