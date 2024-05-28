@@ -85,6 +85,15 @@ Cerrar y volver a ejecutar el servidor del proyecto ionic.
 
 2. LISTAR ALUMNOS (luego se ordenerá):
 ==============================================
+1. Crear una página nueva de nombre **listar-alumno**, para ello deberá agregar el siguiente comando:
+
+  ionic g page listar-alumno
+
+Posteriormente agregar una lineas que están señaladas
+
+2. Ir al archivo **api.service.ts**
+
+Ruta: Src > app > **api.service.ts**
 
 .. image:: img/apiservice.png
 
