@@ -6,10 +6,18 @@
 - **1. Copiar la ruta del proyecto "crud" creado**
 
 .. image:: img/ruta_crud_proyecto.png
+   :height: 30
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 - **2. Ejecutar el CMD como administrador**
 
 .. image:: img/cmd_administrador.png
+   :height: 30
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 - **3. Ingresamos a la carpeta del proyecto desde el comando cd **
 
@@ -18,6 +26,10 @@ Linea::
   cd crud
 
 .. image:: img/ingresamos_cd_crud.png
+   :height: 20
+   :width: 170
+   :scale: 5
+   :alt: JoeAI
 
 - **4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:**
 
@@ -34,16 +46,28 @@ Linea::
   ionic g page agreg-alumno
 
 .. image:: img/ingresamos_crud_page.png
+   :height: 20
+   :width: 170
+   :scale: 5
+   :alt: JoeAI
 
 **SI nos aparece un mensaje indicanos acaeptar algo, ponemos la letra N** (seguido de Enter)
 
 Deberá generar el un mensaje CREATE o **"[OK] Generated page!"** para asegurarnos que se ha creado la página
 
 .. image:: img/pag_creada.png
+   :height: 30
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 además verificamos si en nuestro proyecto se creó la página
 
 .. image:: img/pag_creada_verfi_proyecto.png
+   :height: 30
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 
 COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP POR MEDIOS DE PETICIONES
@@ -56,6 +80,10 @@ Linea::
   ionic g service api
 
 .. image:: img/ionic-server.png
+   :height: 20
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 2. comando
 
@@ -64,6 +92,10 @@ Linea::
   npm install ionic-native
 
 .. image:: img/ionic_native.png
+   :height: 20
+   :width: 70
+   :scale: 10
+   :alt: JoeAI
 
 3. comando
 
@@ -72,6 +104,10 @@ Linea::
   npm install @ionic-native/network
 
 .. image:: img/native_network.png
+   :height: 20
+   :width: 70
+   :scale: 10
+   :alt: JoeAI
 
 
 SECUENCIAS DE PROGRAMACIONES EN DIVERSOS ARCHIVOS DEL PROYECTO
@@ -80,22 +116,37 @@ SECUENCIAS DE PROGRAMACIONES EN DIVERSOS ARCHIVOS DEL PROYECTO
 1. En el script app.module.ts , agregamos la siguientes líneas que están señaladas
 
 .. image:: img/proyecto_appmodule1.png
+   :height: 30
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 .. image:: img/proyecto_appmodule2.png
+   :height: 30
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 
 En el caso les genere el siguiente error:
 
 .. image:: img/error_ionicnative.png
+   :height: 30
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 lo podrá solucionar con la siguiente línea
 
 Linea::
 
   npm install @ionic-native/core
- 
 
 .. image:: img/sol_error_ionicnative.png
+   :height: 30
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 Cerrar y volver a ejecutar el servidor del proyecto ionic.
 
@@ -122,26 +173,46 @@ Linea::
   npm install @ionic-native/core
 
 .. image:: img/sol_error_ionicnative.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 4. Ir al archivo **listar-alumnos.page.ts**
 
 Ruta: Src > app > listar-alumnos > **listar-alumnos.page.ts**
 
 .. image:: img/listar-alumnos1.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 .. image:: img/listar-alumnos2.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 5. Ir al archivo **app-routing.module.ts**
 
 Ruta: Src > app > **app-routing.module.ts**
 
 .. image:: img/approutingmodule.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 6. Ir al archivo **app.component.ts**
 
 Ruta: Src > app > **app.component.ts**
 
 .. image:: img/appcomponentes.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 SOLUCIONAR ERRORES DE NPM TEMPORALES:
 ==============================================
