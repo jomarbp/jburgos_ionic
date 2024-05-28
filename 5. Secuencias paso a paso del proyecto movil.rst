@@ -12,19 +12,26 @@
 .. image:: img/cmd_administrador.png
 
 - **3. Ingresamos a la carpeta del proyecto desde el comando cd **
+
+Linea::
+
   cd crud
 
 .. image:: img/ingresamos_cd_crud.png
 
 - **4. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:**
 
- **ionic serve**
+Linea::
+
+  ionic serve
 
 AHORA: **Vamos a crear nuestra primera página que me permitirá AGREGAR ALUMNOS:**
 
 1. SIN CERRAR LA VENTANA DEL CMD en dónde tiene ejecutado su servidor de IONIC, deberá **abrir otra ventana CMD** como administrador y ejecutar la siguiente línea:
 
-  ionic g page agreg-alumno (ud podría asignar el nombre que desee)
+Linea::
+
+  ionic g page agreg-alumno
 
 .. image:: img/ingresamos_crud_page.png
 
@@ -44,19 +51,25 @@ COMANDOS PARA PODER ESTABLECER CONEXIÓN ENTRE EL APLICATIVO CON EL API PHP POR 
 
 1. comando
 
-  **ionic g service api**
+Linea::
+
+  ionic g service api
 
 .. image:: img/ionic-server.png
 
 2. comando
 
-  **npm install ionic-native**
+Linea::
+
+  npm install ionic-native
 
 .. image:: img/ionic_native.png
 
 3. comando
 
-  **npm install @ionic-native/network**
+Linea::
+
+  npm install @ionic-native/network
 
 .. image:: img/native_network.png
 
@@ -77,7 +90,10 @@ En el caso les genere el siguiente error:
 
 lo podrá solucionar con la siguiente línea
 
- npm install @ionic-native/core
+Linea::
+
+  npm install @ionic-native/core
+ 
 
 .. image:: img/sol_error_ionicnative.png
 
@@ -87,7 +103,9 @@ Cerrar y volver a ejecutar el servidor del proyecto ionic.
 ==============================================
 1. Crear una página nueva de nombre **listar-alumno**, para ello deberá agregar el siguiente comando:
 
- ionic g page listar-alumno
+Linea::
+
+  ionic g page listar-alumno
 
 Posteriormente agregar una lineas que están señaladas
 
@@ -99,7 +117,9 @@ Ruta: Src > app > **api.service.ts**
 
 3. En el CMD (ejecutado como administrador e ingresado a su proyecto), agregar el siguiente comando
 
- npm install @ionic-native/core
+Linea::
+
+  npm install @ionic-native/core
 
 .. image:: img/sol_error_ionicnative.png
 
@@ -123,11 +143,18 @@ Ruta: Src > app > **app.component.ts**
 
 .. image:: img/appcomponentes.png
 
-
-
 SOLUCIONAR ERRORES DE NPM TEMPORALES:
 ==============================================
-1. npm install --save --legacy-peer-deps
-2. npm config set legacy-peer-deps true
-3. npm cache clean --force
+1. 
+Linea::
+
+  npm install --save --legacy-peer-deps
+
+2. Linea::
+
+  npm config set legacy-peer-deps true
+
+2. Linea::
+
+  npm cache clean --force
 
