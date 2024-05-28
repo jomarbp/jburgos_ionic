@@ -83,7 +83,7 @@ lo podrá solucionar con la siguiente línea
 
 Cerrar y volver a ejecutar el servidor del proyecto ionic.
 
-2. LISTAR ALUMNOS (luego se ordenerá):
+2. ⌚​🤖​✔️​LISTAR ALUMNOS ⌚​🤖​✔️​:
 ==============================================
 1. Crear una página nueva de nombre **listar-alumno**, para ello deberá agregar el siguiente comando:
 
