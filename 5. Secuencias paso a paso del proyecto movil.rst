@@ -183,13 +183,13 @@ Linea::
 Ruta: Src > app > listar-alumnos > **listar-alumnos.page.ts**
 
 .. image:: img/listar-alumnos1.png
-   :height: 40
+   :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
 
 .. image:: img/listar-alumnos2.png
-   :height: 40
+   :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
@@ -199,7 +199,7 @@ Ruta: Src > app > listar-alumnos > **listar-alumnos.page.ts**
 Ruta: Src > app > **app-routing.module.ts**
 
 .. image:: img/approutingmodule.png
-   :height: 40
+   :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
@@ -209,7 +209,7 @@ Ruta: Src > app > **app-routing.module.ts**
 Ruta: Src > app > **app.component.ts**
 
 .. image:: img/appcomponentes.png
-   :height: 40
+   :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
