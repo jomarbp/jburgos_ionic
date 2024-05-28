@@ -97,13 +97,29 @@ Ruta: Src > app > **api.service.ts**
 
 .. image:: img/apiservice.png
 
+3. En el CMD (ejecutado como administrador e ingresado a su proyecto), agregar el siguiente comando
+
+ npm install @ionic-native/core
+
 .. image:: img/sol_error_ionicnative.png
+
+4. Ir al archivo **listar-alumnos.page.ts**
+
+Ruta: Src > app > listar-alumnos > **listar-alumnos.page.ts**
 
 .. image:: img/listar-alumnos1.png
 
 .. image:: img/listar-alumnos2.png
 
+5. Ir al archivo **app-routing.module.ts**
+
+Ruta: Src > app > **app-routing.module.ts**
+
 .. image:: img/approutingmodule.png
+
+6. Ir al archivo **app.component.ts**
+
+Ruta: Src > app > *app.component.ts**
 
 .. image:: img/appcomponentes.png
 
