@@ -150,11 +150,13 @@ Linea::
 
   npm install --save --legacy-peer-deps
 
-2. Linea::
+2. 
+Linea::
 
   npm config set legacy-peer-deps true
 
-2. Linea::
+3. 
+Linea::
 
   npm cache clean --force
 
