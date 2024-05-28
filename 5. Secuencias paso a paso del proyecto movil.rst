@@ -87,7 +87,7 @@ Cerrar y volver a ejecutar el servidor del proyecto ionic.
 ==============================================
 1. Crear una página nueva de nombre **listar-alumno**, para ello deberá agregar el siguiente comando:
 
-.. code:: python
+.. code:: ionic
   ionic g page listar-alumno
 
 Posteriormente agregar una lineas que están señaladas
