@@ -31,6 +31,7 @@ PARA EJECUTAR PROYECTO PREVIAMENTE CREADO
 4. Ejecutar el comando:
 
 Linea::
+
   ionic serve
 
 .. image:: img/correr_servidor_ionic.png
