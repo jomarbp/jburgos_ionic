@@ -1,3 +1,5 @@
+INSTALAR NODEJS (SÓLO POR UNA UNICA VEZ)
+
 PROCEDIMIENTOS:
 ==============================================
 
@@ -9,17 +11,24 @@ INSTALAR ANGULAR
 
 Escribir el comando: 
 
- **npm install -g @angular/cli** (Esperar la instalación)
+Linea::
+
+  npm install -g @angular/cli
+
+(Esperar la instalación)
 
 INSTALAR IONIC
 =============================================
 
 Escribir el siguiente comando:
 
- **npm install -g @ionic/cli**
+Linea::
 
+  npm install -g @ionic/cli
+ 
 
-💡​✔️​​ CREAR PROYECTO
+=============================================
+💡​✔️​​ CREAR PROYECTO ✔️💡​
 =============================================
 
 **RECOOOORDAR!**
@@ -29,58 +38,109 @@ Escribir el siguiente comando:
 - **1. Crear una carpeta en el Escritorio con el nombre que ud desee "jburgostres"**
 
 .. image:: img/Crear_carpeta.png
+   :height: 30
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 - **2. Copiar la ruta del proyecto "jburgostres" creado**
 
 .. image:: img/copiar_ruta.png
+   :height: 30
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 - **3. Ejecutar el CMD como administrador**
 
 .. image:: img/cmd_administrador.png
+   :height: 30
+   :width: 50
+   :scale: 10
+   :alt: JoeAI
 
 - **4. agregar la siguiente linea**
 
- **cd larutadelproyecto**
+Linea::
+
+  cd larutadelproyecto
 
 .. image:: img/ingresar_cmd_proyecto.png
+   :height: 30
+   :width: 70
+   :scale: 10
+   :alt: JoeAI
 
 - 3.Luego de haber ingresado a la carpeta desde el CMD escribir el siguiente comando:
 
- **ionic start elnombredelproyecto** (Esperar que abra la web y crear al app)
+Linea::
+
+  ionic start elnombredelproyecto
+
+(Esperar que abra la web y crear al app)
 
 .. image:: img/crear_app.png
+   :height: 20
+   :width: 80
+   :scale: 10
+   :alt: JoeAI
 
 
 4. Aparecerá un apartado dónde deberemos seleccionar el **framework Javascript** con las teclas direccionales del teclado la linea de **"Angular"**
 
 .. image:: img/sel-angular.png
+   :height: 35
+   :width: 80
+   :scale: 10
+   :alt: JoeAI
 
 5. Seleccionamos el **template(plantilla)** de **slidemenu** con las teclas direccionales.
 
 .. image:: img/sel-template.png
+   :height: 35
+   :width: 80
+   :scale: 10
+   :alt: JoeAI
 
 6. Seleccionamos el **Llaves permitidas (Arrow Key) NgModules** con las teclas direccionales.
 
 .. image:: img/llave_permitida.png
+   :height: 35
+   :width: 80
+   :scale: 10
+   :alt: JoeAI
 
 **ESPERAMOS QUE SE DESCARGUE TODO EL PAQUETE DE IONIC , HASTA QUE OTRA VEZ TENGAMOS EN LA CMD LIBRE PARA ESCRIBIR OTRA LINEA**
 
 (En el caso les muestre la opción de **create account** poner la letra N y seguido presionar Enter.
 
 .. image:: img/nocrearcuenta.png
+   :height: 35
+   :width: 80
+   :scale: 10
+   :alt: JoeAI
 
 **NOS ASEGURAMOS CON ESTO QUE SE HA CREADO TODO OK**
 
 .. image:: img/final.png 
+   :height: 35
+   :width: 80
+   :scale: 10
+   :alt: JoeAI
 
 
 7. En la ruta del proyecto creado de ionic , ingresar a el por medio del CMD para posteriormente digitar el siguiente comando:
 
+Linea::
 
- **ionic serve**
+    ionic serve
 
 Listo!, debería mostrar la interfaz gráfica del aplicativo y sus complementos agregados en la carpeta del proyecto creado.
 
 .. image:: img/vista_app.png
+   :height: 35
+   :width: 80
+   :scale: 10
+   :alt: JoeAI
 
 
