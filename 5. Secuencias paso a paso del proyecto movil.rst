@@ -214,6 +214,28 @@ Ruta: Src > app > **app.component.ts**
    :scale: 10
    :alt: JoeAI
 
+VISUALIZAR LISTA DE ALUMNOS:
+==============================================
+
+.. image:: img/screen1_vista.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/screen2_vista.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/vista_lista.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+
 SOLUCIONAR ERRORES DE NPM TEMPORALES:
 ==============================================
 1. 
