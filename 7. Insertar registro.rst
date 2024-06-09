@@ -50,46 +50,40 @@ Ruta: Src > app > agreg-alumno > **agreg-alumno.page.ts**
    :scale: 10
    :alt: JoeAI
 
-5. Ir al archivo **app-routing.module.ts**
-
-Ruta: Src > app > **app-routing.module.ts**
-
-.. image:: img/approutingmodule.png
-   :height: 45
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-6. Ir al archivo **app.component.ts**
-
-Ruta: Src > app > **app.component.ts**
-
-.. image:: img/appcomponentes.png
-   :height: 45
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-VISUALIZAR LISTA DE ALUMNOS:
+✔️​EN EL API: C:\xampp\htdocs\api ​✔️​:
 ==============================================
 
-.. image:: img/screen1_vista.png
+5. En el archivo **api**
+
+Ruta: C:\xampp\htdocs\api\**autoincrementar_codigo.php**
+
+.. image:: img/autoincrementar_codigophp.png
    :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
 
-.. image:: img/screen2_vista.png
+Ruta: C:\xampp\htdocs\api\**insertar_alumno.php**
+
+.. image:: img/insertar_alumnophp.png
    :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
 
-.. image:: img/vista_lista.png
+
+VERIFICAR SI autoincrementar_codigo.php CONSUME DATOS:
+==============================================
+
+5. En el navegador ir a la ruta **http://localhost/api/autoincrementar_codigo.php**
+
+
+.. image:: img/autoincrementar_codigophp.png
    :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
+
 
 
 SOLUCIONAR ERRORES DE NPM TEMPORALES:
