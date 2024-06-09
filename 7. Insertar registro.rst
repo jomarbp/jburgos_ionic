@@ -77,13 +77,17 @@ VERIFICAR SI autoincrementar_codigo.php CONSUME DATOS:
 
 5. En el navegador ir a la ruta **http://localhost/api/autoincrementar_codigo.php**
 
-
 .. image:: img/autoincrementar_codigophp.png
    :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
 
+.. image:: img/demo.pm4
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 
 SOLUCIONAR ERRORES DE NPM TEMPORALES:
