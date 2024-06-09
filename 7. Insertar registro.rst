@@ -1,18 +1,22 @@
 ⌚​🤖​✔️​INSERTAR ALUMNOS ⌚​🤖​✔️​:
 ==============================================
-1. Crear una página nueva de nombre **listar-alumno**, para ello deberá agregar el siguiente comando:
+1. Ingresar a la carpeta del proyecto IONIC y correr el servidor con el comando
 
 Linea::
 
-  ionic g page listar-alumno
+  ionic serve
 
 Posteriormente agregar una lineas que están señaladas
 
-2. Ir al archivo **api.service.ts**
+2. Ir al archivo **agreg-alumno.page.html**
 
-Ruta: Src > app > **api.service.ts**
+Ruta: Src > app > agreg-alumno > **agreg-alumno.page.html**
 
-.. image:: img/apiservice.png
+.. image:: img/agreg-alumnopage.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
 
 3. En el CMD (ejecutado como administrador e ingresado a su proyecto), agregar el siguiente comando
 
