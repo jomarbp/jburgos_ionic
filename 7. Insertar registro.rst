@@ -1,4 +1,4 @@
-⌚​🤖​✔️​LISTAR ALUMNOS ⌚​🤖​✔️​:
+⌚​🤖​✔️​INSERTAR ALUMNOS ⌚​🤖​✔️​:
 ==============================================
 1. Crear una página nueva de nombre **listar-alumno**, para ello deberá agregar el siguiente comando:
 
