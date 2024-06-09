@@ -1,0 +1,103 @@
+⌚​🤖​✔️​LISTAR ALUMNOS ⌚​🤖​✔️​:
+==============================================
+1. Crear una página nueva de nombre **listar-alumno**, para ello deberá agregar el siguiente comando:
+
+Linea::
+
+  ionic g page listar-alumno
+
+Posteriormente agregar una lineas que están señaladas
+
+2. Ir al archivo **api.service.ts**
+
+Ruta: Src > app > **api.service.ts**
+
+.. image:: img/apiservice.png
+
+3. En el CMD (ejecutado como administrador e ingresado a su proyecto), agregar el siguiente comando
+
+Linea::
+
+  npm install @ionic-native/core
+
+.. image:: img/sol_error_ionicnative.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+4. Ir al archivo **listar-alumnos.page.ts**
+
+Ruta: Src > app > listar-alumnos > **listar-alumnos.page.ts**
+
+.. image:: img/listar-alumnos1.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/listar-alumnos2.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+5. Ir al archivo **app-routing.module.ts**
+
+Ruta: Src > app > **app-routing.module.ts**
+
+.. image:: img/approutingmodule.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+6. Ir al archivo **app.component.ts**
+
+Ruta: Src > app > **app.component.ts**
+
+.. image:: img/appcomponentes.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+VISUALIZAR LISTA DE ALUMNOS:
+==============================================
+
+.. image:: img/screen1_vista.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/screen2_vista.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/vista_lista.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+
+SOLUCIONAR ERRORES DE NPM TEMPORALES:
+==============================================
+1. 
+Linea::
+
+  npm install --save --legacy-peer-deps
+
+2. 
+Linea::
+
+  npm config set legacy-peer-deps true
+
+3. 
+Linea::
+
+  npm cache clean --force
+
