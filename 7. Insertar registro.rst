@@ -50,12 +50,12 @@ Ruta: Src > app > agreg-alumno > **agreg-alumno.page.ts**
    :scale: 10
    :alt: JoeAI
 
-✔️​EN EL API: C:\xampp\htdocs\api ​✔️​:
+✔️​EN EL API: "C:/xampp/htdocs/api" ​✔️​:
 ==============================================
 
 5. En el archivo **api**
 
-Ruta: C:\xampp\htdocs\api\**autoincrementar_codigo.php**
+Ruta: C:/xampp/htdocs/api/ **autoincrementar_codigo.php**
 
 .. image:: img/autoincrementar_codigophp.png
    :height: 45
@@ -63,7 +63,7 @@ Ruta: C:\xampp\htdocs\api\**autoincrementar_codigo.php**
    :scale: 10
    :alt: JoeAI
 
-Ruta: C:\xampp\htdocs\api\**insertar_alumno.php**
+Ruta: C:/xampp/htdocs/api/ **insertar_alumno.php**
 
 .. image:: img/insertar_alumnophp.png
    :height: 45
