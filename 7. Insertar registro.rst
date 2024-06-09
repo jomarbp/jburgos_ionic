@@ -18,13 +18,11 @@ Ruta: Src > app > agreg-alumno > **agreg-alumno.page.html**
    :scale: 10
    :alt: JoeAI
 
-3. En el CMD (ejecutado como administrador e ingresado a su proyecto), agregar el siguiente comando
+3. Ir al archivo **api.service.ts**
 
-Linea::
+Ruta: Src > app > **api.service.ts**
 
-  npm install @ionic-native/core
-
-.. image:: img/sol_error_ionicnative.png
+.. image:: img/apiservicests.png
    :height: 40
    :width: 90
    :scale: 10
