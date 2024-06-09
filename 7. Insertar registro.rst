@@ -83,7 +83,7 @@ VERIFICAR SI autoincrementar_codigo.php CONSUME DATOS:
    :scale: 10
    :alt: JoeAI
 
-.. image:: img/demo.pm4
+.. image:: img/demo.mp4
    :height: 45
    :width: 90
    :scale: 10
