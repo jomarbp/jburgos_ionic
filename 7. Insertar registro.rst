@@ -28,17 +28,23 @@ Ruta: Src > app > **api.service.ts**
    :scale: 10
    :alt: JoeAI
 
-4. Ir al archivo **listar-alumnos.page.ts**
+4. Ir al archivo **agreg-alumno.page.ts**
 
-Ruta: Src > app > listar-alumnos > **listar-alumnos.page.ts**
+Ruta: Src > app > agreg-alumno > **agreg-alumno.page.ts**
 
-.. image:: img/listar-alumnos1.png
+.. image:: img/agregalumno1.png
    :height: 45
    :width: 90
    :scale: 10
    :alt: JoeAI
 
-.. image:: img/listar-alumnos2.png
+.. image:: img/agregalumno2.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/agregalumno3.png
    :height: 45
    :width: 90
    :scale: 10
