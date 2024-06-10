@@ -75,7 +75,7 @@ Ruta: C:/xampp/htdocs/api/ **insertar_alumno.php**
 VERIFICAR SI autoincrementar_codigo.php CONSUME DATOS:
 ==============================================
 
-5. En el navegador ir a la ruta **http://localhost/api/autoincrementar_codigo.php**
+6. En el navegador ir a la ruta **http://localhost/api/autoincrementar_codigo.php**
 
 .. image:: img/corroborar_autoincrement.png
    :height: 45
@@ -87,7 +87,7 @@ VERIFICAR SI autoincrementar_codigo.php CONSUME DATOS:
 MODIFICACIÓN DE ESTRUCTURA DE CÓDIGO SEGUN EL FORMATO:
 =======================================================
 
-6. deberá actualizar los códigos respetando la estructura que se autoincrementará
+7. deberá actualizar los códigos respetando la estructura que se autoincrementará
 
 .. image:: img/tabla_cod_act.png
    :height: 45
