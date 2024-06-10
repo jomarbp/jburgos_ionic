@@ -1,5 +1,10 @@
 ⌚​🤖​✔️​INSERTAR ALUMNOS ⌚​🤖​✔️​:
 ==============================================
+Nota: si desea agregar emojis a su app, puede visitar la siguiente web.
+
+https://emojikeyboard.top/es/
+
+
 1. Ingresar a la carpeta del proyecto IONIC y correr el servidor con el comando
 
 Linea::
