@@ -5,7 +5,7 @@
 https://emojikeyboard.top/es/
 
 
-1. Ingresar a la carpeta del proyecto IONIC y correr el servidor con el comando
+1. **Ingresar a la carpeta del proyecto IONIC y correr el servidor con el comando**
 
 Linea::
 
