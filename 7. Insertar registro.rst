@@ -113,7 +113,8 @@ Linea::
     //header('Access-Control-Allow-Headers: X-Requested-With');
     header('Content-Type: application/json; charset=utf-8');
     $conexion = mysqli_connect('localhost','root','','escuela') or die('Error de conexión');
-?>
+  ?>
+
 
 SOLUCIONAR ERRORES DE NPM TEMPORALES:
 ==============================================
