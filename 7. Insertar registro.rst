@@ -89,8 +89,8 @@ VERIFICAR SI autoincrementar_codigo.php CONSUME DATOS:
    :alt: JoeAI
 
 
-MODIFICACIÓN DE ESTRUCTURA DE CÓDIGO SEGUN EL FORMATO:
-=======================================================
+MODIFICACIÓN DE CÓDIGO EN REGISTRO DE LA BD SEGUN EL FORMATO:
+==============================================================
 
 7. deberá actualizar los códigos respetando la estructura que se autoincrementará
 
