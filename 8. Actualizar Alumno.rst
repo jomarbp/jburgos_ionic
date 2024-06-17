@@ -11,7 +11,7 @@ Linea::
 
   ionic serve
 
-2. Crear una página nueva **mod-alumno**
+2. Abrir otro símbolo del sistema , ingresando a la carpeta del proyecto IONIC y  Crear una página nueva **mod-alumno**
 
 Linea::
 
