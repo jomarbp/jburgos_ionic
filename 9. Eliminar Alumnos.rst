@@ -1,0 +1,149 @@
+⌚​🤖​✔️​ACTUALIZAR ALUMNOS ⌚​🤖​✔️​:
+==============================================
+**Nota:** si desea agregar emojis a su app, puede visitar la siguiente web.
+
+https://emojikeyboard.top/es/
+
+
+1. **Ingresar a la carpeta del proyecto IONIC y correr el servidor con el comando**
+
+Linea::
+
+  ionic serve
+
+2. Crear una página nueva **mod-alumno**
+
+Linea::
+
+  ionic g page mod-alumno
+
+.. image:: img/mod_crearpaginamodalumno.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+3. En el archivo **listar-alumnos.page.html**
+
+Ruta: Src > app > listar-alumnos > **listar-alumnos.page.html**
+
+.. image:: img/mod_listar-alumnos_Button.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+4. Ir al archivo **mod-alumno.page.html**
+
+Ruta: Src > app > mod-alumno > **mod-alumno.page.html**
+
+.. image:: img/mod_mod-alumnopagehtml.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+5. Ir al archivo **mod-alumno.page.ts**
+
+Ruta: Src > app > mod-alumno > **mod-alumno.page.ts**
+
+.. image:: img/mod_modalumnopagets1.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/mod_modalumnopagets2.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+.. image:: img/mod_modalumnopagets3.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+6. Ir al archivo **api.service.ts**
+
+Ruta: Src > app > **api.service.ts**
+
+.. image:: img/mod_apiservicets.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+7. Ir al archivo **app-routing.module.ts**
+
+Ruta: Src > app > **app-routing.module.ts**
+
+.. image:: img/mod_approutingmodulets.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+✔️​EN EL API: "C:/xampp/htdocs/api" ​✔️​:
+==============================================
+
+8. En el archivo **api**
+
+Ruta: C:/xampp/htdocs/api/ **capturar_datos_alumnos.php**
+
+.. image:: img/mod_capturardatosalumnosphp.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+Ruta: C:/xampp/htdocs/api/ **editar_alumno.php**
+
+.. image:: img/mod_editaralumnophp.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+
+VERIFICAR SI capturar_datos_alumnos.php CONSUME DATOS:
+==============================================
+
+9. En el navegador ir a la ruta **http://localhost/api/capturar_datos_alumnos.php?codes=AL-24001**
+
+.. image:: img/mod_verificarconsumocapturarphp.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+
+MENAJE ACTUALIZACIÓN OK:
+==============================================================
+
+.. image:: img/resultado.png
+   :height: 45
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
+
+
+
+SOLUCIONAR ERRORES DE NPM TEMPORALES:
+==============================================
+1. 
+Linea::
+
+  npm install --save --legacy-peer-deps
+
+2. 
+Linea::
+
+  npm config set legacy-peer-deps true
+
+3. 
+Linea::
+
+  npm cache clean --force
+
